@@ -8,6 +8,7 @@
 !Assets/
 !Assets/@Scripts/
 !Assets/@Scripts/**
+!Assets/@Scripts.meta
 
 # --- Unity 관련 무시 규칙 (중복돼도 안전) ---
 /[Ll]ibrary/
